@@ -8,3 +8,11 @@ link : https://github.com/ahmadbdran20001-web/Revenue-Operation-Analyst-CRM-B2B-
 
 ### ☕💲 Coffee Shop Sales Analyst  (Exploring sales trends, product performance, and customer demand to improve revenue and support data-driven business decisions)
 link : https://github.com/ahmadbdran20001-web/sales-coffee-shop
+
+### 🛒📱Market online Analysis  (A project for analyzing an online retail store dataset in detail )
+link : https://github.com/ahmadbdran20001-web/Market-Online
+
+
+### 💰🏠Room price Analysis  (A project to analyze room prices in different areas) 
+link : https://github.com/ahmadbdran20001-web/Room-price-
+
